@@ -12,12 +12,12 @@ bot = Client(
 
 
 START_TXT = """
-Hi {}, I'm Forward Tag Remover bot.\n\nForward me some messages, i will remove forward tag from them.\nAlso can do it in channels.
+𝐇𝐢 {}\n\n 𝐈'𝐦 𝐅𝐨𝐫𝐰𝐚𝐫𝐝 𝐓𝐚𝐠 𝐑𝐞𝐦𝐨𝐯𝐞𝐫 𝐁𝐨𝐭 🍃.\n\n𝐅𝐨𝐫𝐰𝐚𝐫𝐝 𝐦𝐞 𝐬𝐨𝐦𝐞 𝐌𝐞𝐬𝐬𝐚𝐠𝐞𝐬,\n𝐢 𝐰𝐢𝐥𝐥 𝐫𝐞𝐦𝐨𝐯𝐞 𝐅𝐨𝐫𝐰𝐚𝐫𝐝 𝐓𝐚𝐠 𝐅𝐫𝐨𝐦 𝐓𝐡𝐞𝐦 🌷.\n\n𝐀𝐥𝐬𝐨 𝐜𝐚𝐧 𝐝𝐨 𝐢𝐭 𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥𝐬 🐰
 """
 
 START_BTN = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Source Code', url='https://github.com/samadii/ChannelForwardTagRemover'),
+        InlineKeyboardButton('🇮🇳 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ 🇮🇳', url='https://t.me/synaxnetwork'),
         ]]
     )
 
